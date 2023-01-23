@@ -7,3 +7,4 @@
 -Download your file, which is named main.py
 
 -Upload your file here with a commit change
+mine wouldn't upload! It said it wouldn't accept a .py file type.
